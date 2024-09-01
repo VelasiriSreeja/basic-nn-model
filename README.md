@@ -1,6 +1,6 @@
 # EX 01 Developing a Neural Network Regression Model
-### Name: Ragavendran A
-### Reference No: 212222230114
+### Name: Sreeja V
+### Reference No: 212222230169
 ## AIM:
 To develop a neural network regression model for the given dataset.
 
